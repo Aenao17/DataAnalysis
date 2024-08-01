@@ -1,1 +1,1 @@
-# DataAnalysis
+My experience in Data Analysis was formed during the AI courses at university, where I had to analyze data before being able to train the models. I chose two labs to demonstrate working with data, specifically feature extraction from texts (lab9) and working with specialized libraries such as NumPy, Pandas, NLTK, PIL, and Matplotlib (Laborator2).
